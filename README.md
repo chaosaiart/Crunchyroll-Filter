@@ -2,13 +2,24 @@
 <div align="center"> 
 <a id="header"><img src="img/headline.png" alt="Alternativer Text" width="70%"></a>
 </div>
+
+# Main Links
+
 <div align="center"> 
   <img src="https://chaosaiart.de/nodes/workflows/elements/placeholder_button_00.png?v=4" alt="" width="10%">
   <a href="https://anime.chaosaiart.com/"><img src="img/browser.png" alt="" width="40%"></a>
   <a href="https://play.google.com/store/apps/details?id=com.chaosaiart.anime"><img src="img/app_store.png" alt="" width="40%"></a>
   <img src="https://chaosaiart.de/nodes/workflows/elements/placeholder_button_00.png?v=4" alt="" width="10%">
 </div> 
-<br>
+
+<div align="center"> 
+  <img src="https://chaosaiart.de/nodes/workflows/elements/placeholder_button_00.png?v=4" alt="" width="10%">
+  <a href="https://hire.chaosaiart.com/"><img src="https://chaosaiart.de/nodes/workflows/elements/h_b_1.png?v=4" alt="" width="40%"></a>
+  <a href="https://chaosaiart.com/#support_me"><img src="https://chaosaiart.de/nodes/workflows/elements/h_b_2.png?v=4" alt="" width="40%"></a>
+  <img src="https://chaosaiart.de/nodes/workflows/elements/placeholder_button_00.png?v=4" alt="" width="10%">
+</div> 
+
+<br>   
 
 # Regionen Status:
 <br>   
@@ -80,9 +91,18 @@ Reason: It is unclear whether the regions share the same data, such as Dubs & Su
 
 Last Update : 23.10.2024
 
+<br>
+<br>
 
-
-
-
-
- 
+# All Links
+Crunchyfilter EN : https://anime.chaosaiart.com
+<br>
+Crunchyfilter DE : https://anime.chaosaiart.de
+<br>
+GooglePlay : https://play.google.com/store/apps/details?id=com.chaosaiart.anime
+<br>
+My Home Page : https://chaosaiart.com
+<br>
+Hire me : https://hire.chaosaiart.com/
+<br>
+Donate : https://chaosaiart.com/#support_me
